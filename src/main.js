@@ -16,6 +16,7 @@ const refs = {
     searchButton: document.querySelector('#search-form button'),
 };
 
+
 loadMoreButton.buttonAdress = refs.loadMoreButton;
 console.log(123)
 
